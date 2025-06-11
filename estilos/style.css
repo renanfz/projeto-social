@@ -33,13 +33,10 @@ iframe#tela {
     height: 471px;
 }
 
-section#redes-sociais {
-    text-align: right;
-}
-
 section#redes-sociais img {
+    display: block;
     width: 50px;
-    margin: 10px;
+    margin: 15px;
     border-radius: 50%;
     box-sizing: border-box;
     box-shadow: 2px 2px 5px black;
